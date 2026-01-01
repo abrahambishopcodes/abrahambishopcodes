@@ -27,6 +27,13 @@
 ### My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [January 1, 1970 is a very special date in programming. Not because anything groundbreaking happened that day &lpar;no revolutionary app launched, no tech billionaire was born&rpar;, but what really happened is a mind-blowing fact.](https://dev.to/abrahambishopcodes/january-1-1970-is-a-very-special-date-in-programming-not-because-anything-groundbreaking-happened-12nm)
+- [Why January 1, 1970 Is the Most Important Date in programming &lpar;And You&#39;ve Probably Never Heard of It&rpar;](https://dev.to/abrahambishopcodes/why-january-1-1970-is-the-most-important-date-in-programming-and-youve-probably-never-heard-of-414i)
+- [Most of the time, your IP address just quietly does its job. But in the wrong hands? Things get interesting. And by interesting, I mean potentially bad.](https://dev.to/abrahambishopcodes/most-of-the-time-your-ip-address-just-quietly-does-its-job-but-in-the-wrong-hands-things-get-53c8)
+- [How Hackers Use Your IP Address &lpar;And Why You Should Actually Care&rpar;](https://dev.to/abrahambishopcodes/how-hackers-use-your-ip-address-and-why-you-should-actually-care-570j)
+- [After deploying your react app on Vercel, you&#39;re sitting there like &quot;It literally worked two seconds ago. I didn&#39;t change anything. What is happening?&quot;
+
+Let me explain what&#39;s going on, and more importantly, how to fix it without losing your mind.](https://dev.to/abrahambishopcodes/after-deploying-your-react-app-on-vercel-youre-sitting-there-like-it-literally-worked-two-1plk)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
