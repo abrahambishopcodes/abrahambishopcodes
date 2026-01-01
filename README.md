@@ -33,20 +33,22 @@
 - [How Hackers Use Your IP Address &lpar;And Why You Should Actually Care&rpar;](https://dev.to/abrahambishopcodes/how-hackers-use-your-ip-address-and-why-you-should-actually-care-570j)
 - [After deploying your react app on Vercel, you&#39;re sitting there like &quot;It literally worked two seconds ago. I didn&#39;t change anything. What is happening?&quot;
 
+
 Let me explain what&#39;s going on, and more importantly, how to fix it without losing your mind.](https://dev.to/abrahambishopcodes/after-deploying-your-react-app-on-vercel-youre-sitting-there-like-it-literally-worked-two-1plk)
 <!-- BLOG-POST-LIST:END -->
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/abrahambishopcodes/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/abrahambishopcodes/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/abrahambishopcodes/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/abrahambishopcodes/abrahambishopcodes/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31i3rlpjh4it5udx7k7muurdlreq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31i3rlpjh4it5udx7k7muurdlreq&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
