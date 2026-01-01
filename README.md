@@ -33,7 +33,6 @@
 - [How Hackers Use Your IP Address &lpar;And Why You Should Actually Care&rpar;](https://dev.to/abrahambishopcodes/how-hackers-use-your-ip-address-and-why-you-should-actually-care-570j)
 - [After deploying your react app on Vercel, you&#39;re sitting there like &quot;It literally worked two seconds ago. I didn&#39;t change anything. What is happening?&quot;
 
-
 Let me explain what&#39;s going on, and more importantly, how to fix it without losing your mind.](https://dev.to/abrahambishopcodes/after-deploying-your-react-app-on-vercel-youre-sitting-there-like-it-literally-worked-two-1plk)
 <!-- BLOG-POST-LIST:END -->
 
