@@ -1,5 +1,11 @@
 name: Latest blog post workflow
 on:
+  workflow_dispatch: # This allows the manual button to appear
+    inputs:
+      reason:
+        description: 'Why are you running this?'
+        required: false
+        default: 'Manual test'
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
