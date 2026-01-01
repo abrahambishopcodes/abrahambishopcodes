@@ -1,20 +1,23 @@
 name: Latest blog post workflow
 on:
-  workflow_dispatch: # This allows the manual button to appear
+  workflow_dispatch:
     inputs:
       reason:
         description: 'Why are you running this?'
         required: false
         default: 'Manual test'
   schedule:
-    # Runs every hour
     - cron: '0 * * * *'
+    
+permissions:
+  contents: write
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4 # Updated to v4
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: 'https://dev.to/feed/abrahambishopcodes'
