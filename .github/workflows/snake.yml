@@ -5,6 +5,11 @@ on:
     - cron: "* */12 * * *"
 
   workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Why are you running this?'
+        required: false
+        default: 'Manual test'
 
   push:
     branches:
