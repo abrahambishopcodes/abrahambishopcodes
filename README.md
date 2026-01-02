@@ -1,5 +1,5 @@
 <div style="">
-  <img src="https://i.pinimg.com/originals/f0/3e/b3/f03eb39886bbc8b835a72815b473f663.gif" width="100vw" alt="profile_banner" />
+  <img src="https://i.pinimg.com/originals/f3/aa/7e/f3aa7eb96eeb916a485c8ff634c46ac6.gif" width="100vw" alt="profile_banner" />
 </div>
 
 <h2> Hi, I'm Abraham Bishop <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
@@ -57,6 +57,7 @@ Let me explain what&#39;s going on, and more importantly, how to fix it without 
 
 ### 🐍 Contribution Activity
 <img src="https://raw.githubusercontent.com/abrahambishopcodes/abrahambishopcodes/output/snake.svg" alt="Snake animation" />
+
 
 
 
