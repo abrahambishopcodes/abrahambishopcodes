@@ -13,13 +13,36 @@
 - I regularly write articles on **[my Blog](https://abraham-bishop.hashnode.dev/)**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/abrahambishopcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abrahambishopcodes" height="40" width="50" /></a>
-<a href="https://dev.to/abrahambishopcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abrahambishopcodes" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/bishop-abraham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishop-abraham" height="40" width="50" /></a>
-<a href="https://twitter.com/abrahambuilds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abrahambuilds" height="40" width="50" /></a>
-<a href="https://medium.com/@bishop-abraham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bishop-abraham" height="40" width="50" /></a>
-</p>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/abrahambishopcodes" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="50" />
+      </a>
+    </td>
+    <td>
+      <a href="https://dev.to/abrahambishopcodes" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="40" width="50" />
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/bishop-abraham" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+      </a>
+    </td>
+    <td>
+      <a href="https://twitter.com/abrahambuilds" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50" />
+      </a>
+    </td>
+    <td>
+      <a href="https://medium.com/@bishop-abraham" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="50" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Languages and Tools:
 <p align="left"> 
@@ -54,6 +77,11 @@ Let me explain what&#39;s going on, and more importantly, how to fix it without 
 </table>
 
 <br />
+
+## Proof of Work
+
+<div align="center">
+<img width="49%" src="https://streak-stats.demolab.com/?user=abrahambishopcodes&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 
 ### 🐍 Contribution Activity
 <img src="https://raw.githubusercontent.com/abrahambishopcodes/abrahambishopcodes/output/snake.svg" alt="Snake animation" />
