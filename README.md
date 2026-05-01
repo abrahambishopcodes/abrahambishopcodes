@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/abrahambuilds" target="blank"><img src="https://img.shields.io/twitter/follow/abrahambuilds?logo=twitter&style=for-the-badge" alt="abrahambuilds" /></a> </p>
 
-- Open for collaboration. Reach me through **crypiccodetechnologies@gmail.com**
+- Open for collaboration. Reach me through **imabrahambishop@gmail.com**
 
 - I regularly write articles on **[my Blog](https://abraham-bishop.hashnode.dev/)**
 
